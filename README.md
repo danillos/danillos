@@ -2,4 +2,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danillos&count_private=true&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danillos&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
